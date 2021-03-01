@@ -31,8 +31,10 @@ To use the Minimal theme:
 Minimal will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Iniekalanyo Ifiri]
+description: [I'M an aspiring data scientist, experienced with Python and R Programming. 
+I specialize in Machine learning techniques, and data wrangling. 
+I love working on projects together, so, feel free reach out for collaboration]
 ```
 
 Additionally, you may choose to set the following optional variables:
